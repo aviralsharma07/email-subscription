@@ -1,1 +1,1 @@
-# email-subscription
+# Email Subscription
